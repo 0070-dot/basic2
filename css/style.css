@@ -48,7 +48,7 @@
 .main_visual {
     position: relative;
     height: calc(100vh - 96px);
-    background: url(../images/_index_bg01.jpg);
+    background: url(../images/index_bg01.jpg);
 }
 
 .main_visual .slg {
